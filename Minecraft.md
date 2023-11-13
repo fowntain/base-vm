@@ -22,7 +22,7 @@
 sudo apt-get update
 sudo apt-get install neovim
 sudo apt-get install zip
-sudo cd Downloads
+cd Downloads
 sudo unzip TLauncher-2.841.zip
 sudo apt-get install openjdk-8-jre
 sudo apt-get install openjfx
