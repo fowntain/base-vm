@@ -1,0 +1,11 @@
+# running exes on the vm
+# Things to copy and paste:
+
+```
+sudo apt-get install wine
+sudo apt-get install wine32
+sudo apt-get install libwine
+
+
+```
+
