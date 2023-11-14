@@ -1,6 +1,6 @@
 # How to Run/install deb files
 
-### open terminal and put in this code
+### Open the terminal and put in this code
 
   ```
   sudo apt install gdebi -y
