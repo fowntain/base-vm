@@ -22,15 +22,15 @@
 sudo apt-get update
 sudo apt-get install neovim
 sudo apt-get install zip
-sudo cd Downloads
-sudo unzip TLauncher-2.841.zip
+cd Downloads
+sudo unzip TLauncher-2.895.zip
 sudo apt-get install openjdk-8-jre
 sudo apt-get install openjfx
 ```
 
 ## Once you have run all those commands, type this last line:
 ```
-sudo java -jar TLauncher-2.841.jar
+sudo java -jar TLauncher-2.895.jar
 ```
 
 <br>
