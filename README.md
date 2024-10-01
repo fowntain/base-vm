@@ -35,8 +35,9 @@ Now follow the instructions below.
 
 # Copy and paste this line in the terminal:
 ```
-docker run --rm -d -p 3443:80 -v $PWD:/workspace:rw -e USER=username -e PASSWORD=password -e RESOLUTION=1366x650 --name ubuntu-novnc4 fredblgr/ubuntu-novnc:20.04
+docker run -p 8080 u1ih/ubuntu-novnc
 ```
+**the password is "insecure"**
 ### Like this: 
 ![Gif](https://gyazo.com/a8d59c59501b3f04d2fba0344b0c408d.gif)
 
